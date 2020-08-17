@@ -1,0 +1,9 @@
+1. Data Science (IF REQUIRED EVER)
+    a. BeautifulSoup
+    b. Seaborn
+    c. Pandas
+    d. Matplotlib
+    e. Plotly & cufflinks
+
+2. ML
+    a.Scikit-learn
